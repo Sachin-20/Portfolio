@@ -1,0 +1,43 @@
+Exercise 22
+Create an application in flask to display your biodata in HTML
+To be submitted by 24 April 2020, 7:00 PM (edited) 
+
+Exercise 23
+Create an application in flask that displays latest news articles
+To be submitted by 27April 2020, 7:00 PM
+
+Exercise 24
+Create an application in flask (Complete your first application)
+To be submitted by 28April 2020, 7:00 PM
+
+---
+
+Create a new folder name: flask_app
+
+Write a program (Sir gave you) and save the file name: flask_app.py
+
+Open "cmd" window and type: flask_app.py
+
+In cmd window, type: set flask_app=flask_app.py
+
+In powershell window, type: $env:flask_app="flask_app.py"
+
+In powershell window, type: python -m flask run
+
+In browser window, type: http://127.0.0.1:5000/
+
+---
+
+ cd C:\Users\mail\Desktop\SACHIN\Python\flask_app
+
+python -m flask run
+
+set FLASK_APP=flask_app.py
+
+python -m flask run
+
+set FLASK_APP=222.py
+
+python -m flask run
+
+python -m flask run
